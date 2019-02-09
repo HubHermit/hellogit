@@ -1,0 +1,8 @@
+Testing my first file in VIM
+Learning the commands and how to navigate using the manual available
+
+I have no idea what I'm doing as yet but this is pretty interesting so far
+
+So far I learnt how to create and save a new file. Made a slight error with the first one but I'm going to get a bit more acquainted with this.
+
+I will be using this file to document my progress and to test other commands with. 
